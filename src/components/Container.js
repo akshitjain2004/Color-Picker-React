@@ -49,7 +49,7 @@ export class Container extends Component {
         className="container-lg mt-1 px-5"
         style={{ padding:"100px",height: "100vh", backgroundColor: "#bfa3cc" }}
       >
-         <h3>Akshit Jain - 21BRS1088</h3>
+    
         <h2 className="pt-5 d-flex justify-content-center fw-bolder">
           Color Picker
         </h2>
